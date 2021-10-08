@@ -3,7 +3,7 @@ These are main codes of the paper "DVC-P: Deep Video Compression with Perceptual
 
 Our work is based on [OpenDVC](https://github.com/RenYang-home/OpenDVC) (an open source Tensorflow implementation of [DVC](https://arxiv.org/abs/1812.00101)), but improves it with perceptual optimizations (i.e., a discriminator network and a mixed loss are employed to help our network trade off among distortion, perception and rate and nearest-neighbor interpolation is used to eliminate checkerboard artifacts).
 
-Please refer to [technical report](https://arxiv.org/abs/2006.15862) for more details of OpenDVC
+Please refer to [technical report](https://arxiv.org/abs/2006.15862) for more details of OpenDVC. If you find their open source codes are helpful, please cite their work
 ```
 @article{yang2020opendvc,
   title={Open{DVC}: An Open Source Implementation of the {DVC} Video Compression Method},

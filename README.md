@@ -139,7 +139,7 @@ For example:
 python Test.py --path BasketballPass --mode PSNR  --metric PSNR --l 1024
 ```
 
-The OpenDVC encoder generates the encoded bit-stream and compressed frames in two folders.
+DVC-P generates the encoded bit-stream and compressed frames in two folders.
 
 ```
 path = args.path + '/' # path to PNG

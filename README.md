@@ -51,6 +51,10 @@ Since our work DVC-P is totally based on [OpenDVC](https://github.com/RenYang-ho
 
 - Pre-trained models of optical flow. Download the folder "motion_flow" ([Download link](https://drive.google.com/drive/folders/1b6W3AMpHnPddZrGte2zeQJMxZDSha_Ue?usp=sharing)) to the same directory as the codes.
 
+Here we give an example of the folder structure.
+
+![](FolderStructure.png)
+
 ## Input Preperation
 
 (please also refer to the *preperation* in [OpenDVC](https://github.com/RenYang-home/OpenDVC))

@@ -143,3 +143,4 @@ Using our open source codes, compressed frames are in higher perceptual quality 
 
 ![](PerformanceComparsion_1.png)
 ![](PerformanceComparison_2.png)
+<img PerformanceComparison_1.png width="200" height="200">

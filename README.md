@@ -79,7 +79,7 @@ A prepared sequence *BasketballPass* (containing the first 100 frames in RGB for
 
 ### Preperation
 
-- Download the training data. We train the models on the [Vimeo90k dataset](https://github.com/anchen1011/toflow) ([Download link](http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip)) (82G) (followed by [OpenDVC](https://github.com/RenYang-home/OpenDVC))). After downloading, please run the following codes to generate "folder.npy" which contains the directories of all training samples.
+- Download the training data. We train the models on the [Vimeo90k dataset](https://github.com/anchen1011/toflow) ([Download link](http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip)) (82G) (followed by [OpenDVC](https://github.com/RenYang-home/OpenDVC)). After downloading, please run the following codes to generate "folder.npy" which contains the directories of all training samples.
 ```
 def find(pattern, path):
     result = []

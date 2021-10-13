@@ -93,7 +93,7 @@ folder = find('im1.png', 'path_to_vimeo90k/vimeo_septuplet/sequences/')
 np.save('folder.npy', folder)
 ```
 
-- Compress I-frames. Followed by [OpenDVC](https://github.com/RenYang-home/OpenDVC)), we compress I-frames (im1.png) by BPG 444 at QP = 22, 27, 32 and 37 for the models of lambda = 2048, 1024, 512 and 256, respectively. The Vimeo90k dataset has ~90k 7-frame clips, we need to compress "im1.png" in each clip as I-frame. For example:
+- Compress I-frames. Followed by [OpenDVC](https://github.com/RenYang-home/OpenDVC), we compress I-frames (im1.png) by BPG 444 at QP = 22, 27, 32 and 37 for the models of lambda = 2048, 1024, 512 and 256, respectively. The Vimeo90k dataset has ~90k 7-frame clips, we need to compress "im1.png" in each clip as I-frame. For example:
 
 ```
 bpgenc -f 444 -m 9 im1.png -o im1_QP27.bpg -q 27

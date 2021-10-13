@@ -49,11 +49,11 @@ Since our work DVC-P is totally based on [OpenDVC](https://github.com/RenYang-ho
 
 - VGG19.npy ([Download link](https://github.com/TachibanaYoshino/AnimeGAN/releases/download/vgg16/19.npy/vgg19.npy))
 
-- Pre-trained models of optical flow. Download the folder "motion_flow" ([Download link](https://drive.google.com/drive/folders/1b6W3AMpHnPddZrGte2zeQJMxZDSha_Ue?usp=sharing)) to the same directory as the codes.
+- Pre-trained models of optical flow. Download the folder "motion_flow" ([Download link](https://drive.google.com/drive/folders/1b6W3AMpHnPddZrGte2zeQJMxZDSha_Ue?usp=sharing)).
 
 Here we give an example of the folder structure.
 
-<img src="https://github.com/SaipingZhang/DVC_P/blob/main/FolderStructure.png" width="200" height="200">
+<img src="https://github.com/SaipingZhang/DVC_P/blob/main/FolderStructure.png" width="400" height="400">
 
 ## Input Preperation
 

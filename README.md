@@ -140,4 +140,6 @@ path_bin = args.path + '_bin_' + args.mode  + '_' + str(args.l) + '/' # path to 
 ## Performance
 
 Using our open source codes, compressed frames are in higher perceptual quality and without checkerboard artifacts compared with those compressed by [OpenDVC](https://github.com/RenYang-home/OpenDVC).
+
 ![](PerformanceComparsion_1.png)
+![](PerformanceComparsion_2.png)

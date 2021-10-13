@@ -65,7 +65,7 @@ Input frames need to be in RGB format. To compress a video in YUV format, please
 ffmpeg -pix_fmt yuv420p -s WidthxHeight -i Name.yuv -vframes Frame path_to_PNG/f%03d.png
 ```
 
-Since our network requires input frames with the height and width as the multiples of 16 (followed by [OpenDVC](https://github.com/RenYang-home/OpenDVC))), please make sure you have cropped input frames to meet the requirements. The following command can be used to crop images.
+Since our network requires input frames with the height and width as the multiples of 16 (followed by [OpenDVC](https://github.com/RenYang-home/OpenDVC)), please make sure you have cropped input frames to meet the requirements. The following command can be used to crop images.
 
 ```
 ffmpeg -pix_fmt yuv420p -s 1920x1080 -i Name.yuv -vframes Frame -filter:v "crop=1920:1072:0:0" path_to_PNG/f%03d.png

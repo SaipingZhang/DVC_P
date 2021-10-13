@@ -53,7 +53,7 @@ Since our work DVC-P is totally based on [OpenDVC](https://github.com/RenYang-ho
 
 Here we give an example of the folder structure.
 
-<img src="https://github.com/SaipingZhang/DVC_P/blob/main/FolderStructure.png" width="400" height="400">
+<img src="https://github.com/SaipingZhang/DVC_P/blob/main/FolderStructure.png" width="400" height="480">
 
 ## Input Preperation
 

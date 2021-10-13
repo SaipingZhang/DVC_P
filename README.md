@@ -71,7 +71,7 @@ Since our network requires input frames with the height and width as the multipl
 ffmpeg -pix_fmt yuv420p -s 1920x1080 -i Name.yuv -vframes Frame -filter:v "crop=1920:1072:0:0" path_to_PNG/f%03d.png
 ```
 
-A prepared sequence *BasketballPass* (containing the first 100 frames in RGB format) is uploaded in [OpenDVC](https://github.com/RenYang-home/OpenDVC)) as an example. Please check it if you have any questions about preperaing inputs.
+A prepared sequence *BasketballPass* (containing the first 100 frames in RGB format) is uploaded in [OpenDVC](https://github.com/RenYang-home/OpenDVC) as an example. Please check it if you have any questions about preperaing inputs.
 
 ## Training your own models
 

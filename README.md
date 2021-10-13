@@ -47,6 +47,8 @@ Since our work DVC-P is totally based on [OpenDVC](https://github.com/RenYang-ho
 
 (Note that BPG encoder is used to compress I frames, and our DVC-P is only used to generatively compress P frames.)
 
+- VGG19.npy ([Download link](https://github.com/TachibanaYoshino/AnimeGAN/releases/download/vgg16/19.npy/vgg19.npy))
+
 ## Input Preperation
 
 (please also refer to the *preperation* in [OpenDVC](https://github.com/RenYang-home/OpenDVC))

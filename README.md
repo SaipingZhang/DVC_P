@@ -31,7 +31,7 @@ Saiping Zhang
 Email: spzhang@stu.xidian.edu.cn
 
 ## Basis
-Since our work DVC-P is totally based on [OpenDVC](https://github.com/RenYang-home/OpenDVC), [OpenDVC](https://github.com/RenYang-home/OpenDVC) is considered as our base software. Please try to successfully run [OpenDVC](https://github.com/RenYang-home/OpenDVC) before runing our codes. For better illustration, detailed instructions are also shown below. Note that most of them are referred to those in [OpenDVC](https://github.com/RenYang-home/OpenDVC).
+Since our work DVC-P is totally based on [OpenDVC](https://github.com/RenYang-home/OpenDVC), [OpenDVC](https://github.com/RenYang-home/OpenDVC) is considered as our base software. To ensure that you can successfully run our codes, we strongly suggest that you firstly try to learn how to run [OpenDVC](https://github.com/RenYang-home/OpenDVC) according to their detailed instructions. For better illustration, detailed instructions are also shown below. Note that most of them are referred to those in [OpenDVC](https://github.com/RenYang-home/OpenDVC).
 
 ## Dependency
 

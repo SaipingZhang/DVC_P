@@ -1,5 +1,5 @@
 # DVC_P
-These is the open soure implementation of the paper "DVC-P: Deep Video Compression with Perceptual Optimizations" [[paper](https://arxiv.org/abs/2109.10849)], which is accepted by [VCIP 2021](http://www.vcip2021.org/).
+This is the open soure implementation of the paper "DVC-P: Deep Video Compression with Perceptual Optimizations" [[paper](https://arxiv.org/abs/2109.10849)], which is accepted by [VCIP 2021](http://www.vcip2021.org/).
 
 Our work is based on [OpenDVC](https://github.com/RenYang-home/OpenDVC) (an open source Tensorflow implementation of [DVC](https://arxiv.org/abs/1812.00101)), but improves it with perceptual optimizations (i.e., a discriminator network and a mixed loss are employed to help our network trade off among distortion, perception and rate and nearest-neighbor interpolation is used to eliminate checkerboard artifacts).
 

@@ -35,7 +35,6 @@ Since our work DVC-P is totally based on [OpenDVC](https://github.com/RenYang-ho
 
 ## Dependency
 
-(please also refer to the *dependecy* in [OpenDVC](https://github.com/RenYang-home/OpenDVC))
 
 - Tensorflow 1.12
 
@@ -57,7 +56,6 @@ Here we give an example of the folder structure.
 
 ## Input Preperation
 
-(please also refer to the *preperation* in [OpenDVC](https://github.com/RenYang-home/OpenDVC))
 
 Input frames need to be in RGB format. To compress a video in YUV format, please first convert the YUV to sequential PNG images with the following command.
 
@@ -75,7 +73,6 @@ A prepared sequence *BasketballPass* (containing the first 100 frames in RGB for
 
 ## Training your own models
 
-(please also refer to the *training your own models* in [OpenDVC](https://github.com/RenYang-home/OpenDVC))
 
 ### Preperation
 
@@ -113,8 +110,6 @@ python Train.py --l 1024
 ```
 
 ## Testing your own models
-
-(please also refer to the *encoder for video* in [OpenDVC](https://github.com/RenYang-home/OpenDVC))
 
 ```
 --path, the path to PNG files;
